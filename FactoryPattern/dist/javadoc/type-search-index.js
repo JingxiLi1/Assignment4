@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"factorypatterndemo","l":"Circle"},{"p":"factorypatterndemo","l":"FactoryPatternDemo"},{"p":"factorypatterndemo","l":"Rectangle"},{"p":"factorypatterndemo","l":"Shape"},{"p":"factorypatterndemo","l":"ShapeFactory"},{"p":"factorypatterndemo","l":"Square"},{"l":"所有类和接口","u":"allclasses-index.html"}];updateSearchResults();
